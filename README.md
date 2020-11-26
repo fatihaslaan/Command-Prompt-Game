@@ -1,2 +1,2 @@
-# Command-Prompt-Game
+# Rule
 My first command prompt game
