@@ -1,2 +1,2 @@
 # Rule
-My first command prompt game
+My first command prompt game (2017)
